@@ -191,7 +191,7 @@
         <h1>ABOUT RAJU LODGE</h1>
     </div>
     <div id="card">
-        <img src="./image/image-hosting.jpg" alt="image-lodge" id="image1" class="image">
+        <img src="image-hosting.jpg" alt="image-lodge" id="image1" class="image">
 </div>
     <div id="content">
         <p id="lorem">
